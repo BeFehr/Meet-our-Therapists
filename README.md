@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,7 +49,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://github.com/BeFehr/Meet-our-Therapists/blob/main/1.jpg" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/L6V2pL4/1-1.jpg" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">

@@ -50,7 +50,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.postimg.cc/T1jgYg1h/Klifton-Fehr.png" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/7jQqh6b/9-1.png" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -94,7 +94,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.postimg.cc/k47tSx3c/Monica-Brayboy.png" alt="Headshot of Monica Brayboy" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/PN4t9Jq/6-1.png" alt="Headshot of Monica Brayboy" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -137,7 +137,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.postimg.cc/W3d4L3GZ/Ryan-Laben.png" alt="Headshot of Ryan Laben" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/L8y25Y0/7-1.png" alt="Headshot of Ryan Laben" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -191,7 +191,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.postimg.cc/J0B7W8p5/Teresa-Albernas.png" alt="Headshot of Teresa Albernas" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/JqDBfsk/8-1.png" alt="Headshot of Teresa Albernas" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">

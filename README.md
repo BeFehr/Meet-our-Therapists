@@ -16,7 +16,7 @@
 </head>
 <body class="bg-stone-50 text-stone-800">
 
-    <!-- Header & Navigation -->
+    <!-- Header and Navigation -->
     <header class="bg-white shadow-sm sticky top-0 z-10">
         <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
             <a href="#" class="text-2xl font-bold text-blue-900">Be Fehr Counseling</a>
@@ -31,10 +31,10 @@
         </nav>
     </header>
 
-    <!-- Main Content -->
+    <!-- Main Content Area -->
     <main id="team" class="container mx-auto px-6 py-12 md:py-20">
         
-        <!-- Introductory Section -->
+        <!-- Therapists Section Header -->
         <section class="text-center mb-12 md:mb-16">
             <h1 class="text-4xl md:text-5xl font-bold text-blue-900 mb-4">Meet Our Therapists</h1>
             <p class="max-w-3xl mx-auto text-lg text-stone-600">
@@ -42,15 +42,15 @@
             </p>
         </section>
 
-        <!-- Therapists Grid -->
+        <!-- Container for Therapist Profiles -->
         <div class="space-y-16">
 
-             <!-- Klifton Fehr's Profile Card -->
-            <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl">
+             <!-- Klifton Fehr Profile Card -->
+             <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl">
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.ibb.co/k3k9g1H/8-1.jpg" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/7jQqh6b/9-1.png" alt="Headshot of Klifton Fehr" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -89,19 +89,18 @@
                 </div>
             </div>
 
-            <!-- Monica Brayboy's Profile Card -->
+            <!-- Monica Brayboy Profile Card -->
             <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl">
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
-                        <!-- Image: The bg color matches the image's background for a seamless look -->
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.ibb.co/6yZzV8c/7-1.jpg" alt="Headshot of Monica Brayboy" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/PN4t9Jq/6-1.png" alt="Headshot of Monica Brayboy" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
                         <h2 class="text-3xl font-bold text-blue-900">Monica Brayboy, MSW</h2>
                         <p class="mt-4 text-stone-600 leading-relaxed">
-                            Monica is a compassionate and highly skilled mental health therapist dedicated to helping individuals and families navigate life’s challenges with warmth and expertise. She believes in creating a safe, non-judgmental space where clients feel empowered to grow and heal. A passionate advocate for inclusive care, she is committed to providing affirming support to individuals from all backgrounds, including members of the LGBTQIA++ community.
+                            Monica is a compassionate and highly skilled mental health therapist dedicated to helping individuals and families navigate life’s challenges with warmth and expertise. She believes in creating a safe, non-judgmental space where clients feel empowered to grow and heal. A passionate advocate for inclusive care, she is committed to providing affirming support to individuals from all backgrounds.
                         </p>
                         
                         <div class="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-8">
@@ -133,12 +132,12 @@
                 </div>
             </div>
 
-            <!-- Ryan Laben's Profile Card -->
+            <!-- Ryan Laben Profile Card -->
             <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl">
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.ibb.co/k3k9g1H/8-1.jpg" alt="Headshot of Ryan Laben" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/L8y25Y0/7-1.png" alt="Headshot of Ryan Laben" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -187,12 +186,12 @@
                 </p>
             </div>
 
-            <!-- Teresa Albernas's Profile Card -->
+            <!-- Teresa Albernas Profile Card -->
             <div class="bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl">
                 <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-center">
                     <div class="md:col-span-4">
                         <div class="bg-blue-900 p-8 md:p-0 md:h-full flex items-center justify-center">
-                           <img src="https://i.ibb.co/hLqj6B8/teresa-albernas-headshot.jpg" alt="Headshot of Teresa Albernas" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
+                           <img src="https://i.ibb.co/JqDBfsk/8-1.png" alt="Headshot of Teresa Albernas" class="w-48 h-48 md:w-64 md:h-64 object-cover rounded-full ring-4 ring-white ring-offset-4 ring-offset-blue-900">
                         </div>
                     </div>
                     <div class="p-8 md:col-span-8">
@@ -250,9 +249,4 @@
 
 </body>
 </html>
-
-
-
-
-
 
